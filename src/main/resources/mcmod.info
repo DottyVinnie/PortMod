@@ -1,0 +1,21 @@
+[
+{
+  "modid": "portmod",
+  "name": "Port Mod",
+  "description": "A Mod made to keep up with the ever changing times.",
+  "version": "0.1",
+  "mcversion": "1.7.10";
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+   "DottyVinnie"
+  ],
+  "credits": "To Mojang for such a wonderful game!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

@@ -1,0 +1,23 @@
+# Creative Tab
+itemGroup.portmod=Port Mod
+
+# Items
+item.portmod.prismarine_crystals.name=Prismarine Crystals
+item.portmod.prismarine_shard.name=Prismarine Shard
+item.portmod.iron_nugget.name=Iron Nugget
+
+# Blocks
+tile.portmod.coarse_dirt.name=Coarse Dirt
+tile.portmod.magma.name=Magma Block
+tile.portmod.purpur_block.name=Purpur Block
+tile.portmod.stone_andesite.name=Andesite
+tile.portmod.stone_andesite_smooth.name=Polished Andesite
+tile.portmod.stone_diorite.name=Diorite
+tile.portmod.stone_diorite_smooth.name=Polished Diorite
+tile.portmod.stone_granite.name=Granite
+tile.portmod.stone_granite_smooth.name=Polished Granite
+tile.portmod.prismarine_rough.name=Prismarine
+tile.portmod.prismarine_bricks.name=Prismarine Bricks
+tile.portmod.prismarine_dark.name=Dark Prismarine
+tile.portmod.sea_lantern.name=Sea Lantern
+tile.portmod.bone_block.name=Bone Block
